@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ershiv12ank/Ershiv12ank/blob/main/Shivank%20pandey%20(1).png)
 <h1 align="center">Hi 👋, I'm Shivank Pandey</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img aling="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ershiv12ank" alt="ershiv12ank" /></a> </p>
