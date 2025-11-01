@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently learning **Java & Full Stack Development**
-- 💡 Interested in **AI, Data Science & Web Development**
+- 💡 Interested in **Web Development**
 - 📫 Reach me at **ershiv12ank@gmail.com**
 - ⚡ Fun fact: **I love turning ideas into code and problems into opportunities!**
 
@@ -31,20 +31,24 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,mysql,git,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,html,css,js,react" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ershiv12ank&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ershiv12ank&show_icons=true&theme=great-gatsby&title_color=f39c12&icon_color=f39c12&text_color=f5f5f5&bg_color=0d1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ershiv12ank&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ershiv12ank&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ershiv12ank&theme=great-gatsby&background=0d1117&ring=f39c12&fire=f39c12&currStreakLabel=f39c12" alt="GitHub Streak" />
+  <br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ershiv12ank&layout=compact&theme=great-gatsby&title_color=f39c12&text_color=f5f5f5&bg_color=0d1117" alt="Top Languages" />
+</p>
 ---
 
 ### 🏆 Achievements
