@@ -34,29 +34,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,html,css,js,react" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ershiv12ank&show_icons=true&theme=great-gatsby&title_color=f39c12&icon_color=f39c12&text_color=f5f5f5&bg_color=0d1117" alt="GitHub Stats" />
-  <br/>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ershiv12ank&theme=great-gatsby&background=0d1117&ring=f39c12&fire=f39c12&currStreakLabel=f39c12" alt="GitHub Streak" />
-  <br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ershiv12ank&layout=compact&theme=great-gatsby&title_color=f39c12&text_color=f5f5f5&bg_color=0d1117" alt="Top Languages" />
-</p>
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ershiv12ank&theme=onestar&no-frame=true&row=1" alt="GitHub Trophies"/>
-</p>
-
----
 
 ### 💬 Quote
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
