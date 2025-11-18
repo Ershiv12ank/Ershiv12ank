@@ -42,29 +42,6 @@ I love solving **real-world problems**, exploring **backend systems**, and maste
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,react,python" />
 </p>
 
----
-
-## 📊 GitHub Stats & Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ershiv12ank&show_icons=true&theme=great-gatsby&title_color=f39c12&icon_color=f39c12&text_color=f5f5f5&bg_color=0d1117" height="150"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ershiv12ank&theme=great-gatsby&background=0d1117&ring=f39c12&fire=f39c12" height="150"/>
-  <br/>
- 
- 
-
-
-</p>
-
----
-
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ershiv12ank&theme=onestar&no-frame=true&row=1"/>
-</p>
-
----
-
 ## 💬 Developer Quote  
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House  
 >  
