@@ -51,7 +51,7 @@ I love solving **real-world problems**, exploring **backend systems**, and maste
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ershiv12ank&theme=great-gatsby&background=0d1117&ring=f39c12&fire=f39c12" height="150"/>
   <br/>
  
-  <img src="https://i.imgur.com/3Tg1kEM.png" height="200" alt="Java Spring Boot JavaScript Tech Banner"/>
+ 
 
 
 </p>
