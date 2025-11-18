@@ -72,7 +72,4 @@ I love solving **real-world problems**, exploring **backend systems**, and maste
 
 ---
 
-## 🔍 SEO Keywords  
-**Java Developer**, **Spring Boot Developer**, **Backend Engineer**, **Full Stack Developer**,  
-**MySQL Developer**, **Hibernate ORM**, **Software Engineer India**,  
-**React Developer**, **API Developer**, **Open Source Contributor**.
+
